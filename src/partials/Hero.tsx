@@ -16,12 +16,10 @@ const Hero = () => (
       description={
         <>
           Welcome to my blog! I am a{" "}
-          <a className="text-cyan-400 hover:underline" href="/">
-            Software Engineer
-          </a>{" "}
-          who was a professional musician in his previous life. This blog is a
-          place for me to write about all of the areas of the field that I am
-          interested, especially Neovim and my terminal based workflow.
+          <GradientText>Software Engineer</GradientText> who was a professional
+          musician in his previous life. This blog is a place for me to write
+          about all of the areas of the field that I am interested, especially
+          Neovim and my terminal based workflow.
         </>
       }
       avatar={
