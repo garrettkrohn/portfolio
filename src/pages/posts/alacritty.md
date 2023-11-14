@@ -96,6 +96,3 @@ colors:
 I used Iterm2 for quite a while and it was great.  It has
 some native support for things like Tabs and Panes, so if 
 you aren't using tmux, iterm could be a good option
-
-I haven't had experience with it but Kitty is another
-option that I see discussed frequently.

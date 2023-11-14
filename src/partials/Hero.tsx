@@ -1,7 +1,6 @@
 import {
   GradientText,
   HeroAvatar,
-  HeroSocial,
   Section,
 } from "astro-boilerplate-components";
 
@@ -15,11 +14,10 @@ const Hero = () => (
       }
       description={
         <>
-          Welcome to my blog! I am a{" "}
+          Welcome to my blog! I am a full stack{" "}
           <GradientText>Software Engineer</GradientText> who was a professional
-          musician in his previous life. This blog is a place for me to write
-          about all of the areas of the field that I am interested, especially
-          Neovim and my terminal based workflow.
+          musician in his previous life. I am passionate about web development,
+          my custom workflow, and always learning!
         </>
       }
       avatar={
@@ -30,22 +28,7 @@ const Hero = () => (
           loading="lazy"
         />
       }
-      socialButtons={
-        <>
-          <a href="/">
-            <HeroSocial
-              src="/assets/images/twitter-icon.png"
-              alt="Twitter icon"
-            />
-          </a>
-          <a href="/">
-            <HeroSocial
-              src="/assets/images/linkedin-icon.png"
-              alt="Linkedin icon"
-            />
-          </a>
-        </>
-      }
+      socialButtons={<></>}
     />
   </Section>
 );

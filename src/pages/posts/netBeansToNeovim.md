@@ -9,6 +9,14 @@ imgAlt: 'neovim'
 
 
 ## IDEs
+
+When I first began learning to code, I didn't really understand
+what an IDE was and I assumed that all of them were more or less
+the same.  This is of course ludicrous because they are all good,
+except for that one.
+
+## Netbeans
+
 My first experience with coding was in a coding bootcamp 
 where I was required to use the same IDE as the instructor, 
 which makes sense.  Unfortunately, that meant that I was going
@@ -18,12 +26,14 @@ this point in my career, I didn't know enough about what to
 expect from an IDE.
 
 ## Visual Studio Code
+
 It seems like everyone has had some exposure to Visual Studio
 Code and it generally seems to be a polarizing IDE.  At the 
 time it was a good editor for me.  It looked great and allowed
 me to explore plugins which improved my workflow.
 
 ## PHP Storm
+
 I work with PHP Storm frequently at my job, so I ended up using
 PHP Storm.  It's a great editor that has lots of extra features
 for php development.  I remember having my mind blown by having
@@ -31,6 +41,7 @@ the editor fill in contructors, getters, and setters with one
 click!
 
 ## Interest in Terminal Based Development
+
 One of my coworkers gave a presentation on a tool that he was
 building, and I saw how quickly he moved around in his terminal.
 I couldn't believe how efficient he was.  I started to try to 
@@ -67,7 +78,3 @@ a configuration to be set up exactly how you like it, but it could
 also be really discouraging.  If you are wanting to give Neovim a
 shot, I would recommend starting with a distro or at the very least
 start with lazy.nvim.
-
-After all of that, I am so passionate about Neovim and my workflow 
-that I decided to give this blog a try.  If you're interested, stay
-tuned for more content!
