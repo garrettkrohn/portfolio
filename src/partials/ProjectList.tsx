@@ -48,7 +48,7 @@ const ProjectList = () => (
       <Project
         name="Disc Golf Simulation League"
         description="Create a player and watch how they perform in the a league"
-        link="/"
+        link="https://github.com/garrettkrohn/dgsim"
         img={{
           src: "/assets/images/discgolf.png",
           alt: "Disc Golf Simulation League",
