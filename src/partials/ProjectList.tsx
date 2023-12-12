@@ -35,7 +35,7 @@ const ProjectList = () => (
       <Project
         name="Alpenglow Artistry"
         description="Portfolio website and ecommerce site for artist Rachel Westman."
-        link="www.alpenglow-art.com"
+        link="https://www.alpenglow-art.com"
         img={{ src: "/assets/images/alpenglow.png", alt: "Alpenglow Artistry" }}
         category={
           <>
@@ -47,8 +47,8 @@ const ProjectList = () => (
       />
       <Project
         name="Disc Golf Simulation League"
-        description="Create a player and watch how they perform in the league"
-        link="https://github.com/garrettkrohn/dgsim"
+        description="Create a player and watch how they perform in the a league"
+        link="https://github.com/garrettkrohn/dgsimwww.github.com/"
         img={{
           src: "/assets/images/discgolf.png",
           alt: "Disc Golf Simulation League",
