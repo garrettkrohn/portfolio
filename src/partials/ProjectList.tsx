@@ -39,9 +39,8 @@ const ProjectList = () => (
         img={{ src: "/assets/images/alpenglow.png", alt: "Alpenglow Artistry" }}
         category={
           <>
-            <Tags color={ColorTags.VIOLET}>React</Tags>
-            <Tags color={ColorTags.EMERALD}>Typescript</Tags>
-            <Tags color={ColorTags.YELLOW}>CommerceJS</Tags>
+            <Tags color={ColorTags.VIOLET}>Astro</Tags>
+            <Tags color={ColorTags.EMERALD}>Tailwind</Tags>
           </>
         }
       />
