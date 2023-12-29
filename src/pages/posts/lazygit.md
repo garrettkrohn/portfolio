@@ -34,6 +34,21 @@ control over exactly what is in our commits, and this is where I think [Lazygit]
 shines.  The User Interface shows us all the information and provides us keybindings
 that allows us to do all of our git commmands with a single keystroke.
 
+## Use Case 1
 
+For the first use case, we will keep it very simple.  There is a file in the repo
+and you need to add something to it, I'm going to use this post file as an example.
+I just finished typing up this paragraph and now I want to commit it to git.  After
+saving the file I open Lazygit.
 
+In the upper left hand corner, we can see the file we are editing in red which means
+that the changes have not been committed.  The sequence for commiting them is very 
+quick:
 
+```
+<space> -- this will select all of the changes to the file under the cursor
+<c> -- this will open a prompt to enter a commit message
+
+navigate to the branch window below with <j>
+<P> -- pushes the changes up to the repo
+```
