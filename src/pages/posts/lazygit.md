@@ -49,6 +49,8 @@ quick:
 <space> -- this will select all of the changes to the file under the cursor
 <c> -- this will open a prompt to enter a commit message
 
-navigate to the branch window below with <j>
+navigate to the branch window below with <l>
 <P> -- pushes the changes up to the repo
 ```
+
+And just like that we have pushed a commit up!
