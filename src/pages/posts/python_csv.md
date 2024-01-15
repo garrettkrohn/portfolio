@@ -2,9 +2,9 @@
 layout: '@/templates/BasePost.astro'
 title: Python csv Utilities
 description: A handful of useful python functions.
-pubDate: 2024-01-11T02:34:45.000Z
-imgSrc: '/assets/images/Alacritty.jpeg'
-imgAlt: 'Alacritty'
+pubDate: 2024-01-15T02:34:45.000Z
+imgSrc: '/assets/images/python_csv.jpg'
+imgAlt: 'Python Csv'
 ---
 
 ## Phython and csvs
